@@ -33,7 +33,7 @@ See `/docs/diagrams/Architecture_Diagram.png`
 
 ### Setup
 1. Clone the repository
-git clone https://github.com/yourusername/visitor-gate-pass-system.git
+git clone https://github.com/anjanasri0707-gif/visitor-gate-pass-system.git
 cd visitor-gate-pass-system
 
 2. Configure database in 'application.properties'
